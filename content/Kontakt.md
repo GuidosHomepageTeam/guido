@@ -1,12 +1,13 @@
 ---
 title: Kontakt
+type: page
 menu:
-  left:
-    weight: 60
   foot:
     weight: 10
----
+  left:
+    weight: 60
 
+---
 Privatpraxis „Am Lindenring“
 
 Dipl.-Psych. Guido Lindner\

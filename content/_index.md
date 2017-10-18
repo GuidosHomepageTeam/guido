@@ -1,5 +1,7 @@
 ---
 title: Willkommen
+type: page
+
 ---
 ![Willkommen](../images/willkommen.jpg "Guido Lindner")
 

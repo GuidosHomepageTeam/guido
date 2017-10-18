@@ -1,5 +1,6 @@
 ---
 title: Anfahrt
+type: page
 menu:
   foot:
     weight: 20

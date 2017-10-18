@@ -1,8 +1,10 @@
 ---
 title: Psychotherapie
+type: page
 menu:
   left:
     weight: 20
+
 ---
 Zur Frage „Was ist Psychotherapie?“ empfehle ich einen [Flyer der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)](http://www.dgvt.de/fileadmin/user_upload/Dokumente/Was_ist_Psychotherapie.pdf).
 

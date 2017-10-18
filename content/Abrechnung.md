@@ -1,9 +1,11 @@
 ---
 title: Abrechnung von Therapiesitzungen
 linkTitle: Abrechnung
+type: page
 menu:
   left:
     weight: 50
+
 ---
 ## Privatversicherte ##
 

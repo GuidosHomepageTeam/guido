@@ -1,5 +1,7 @@
 ---
 title: Abrechnung von Therapiesitzungen
+type: page
+
 ---
 ## Privatversicherte ##
 

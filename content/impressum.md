@@ -6,8 +6,6 @@ menu:
     weight: 30
 
 ---
-
-
 ## Verantwortlich
 
 Dipl.-Psych. Guido Lindner

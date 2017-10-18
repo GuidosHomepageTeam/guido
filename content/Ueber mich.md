@@ -1,9 +1,11 @@
 ---
-title: Über mich
+title: "Über mich"
 slug: ueber-mich
+type: page
 menu:
   left:
     weight: 10
+
 ---
 ![Guido Lindner](../images/portrait.jpg "Portrait von Guido Lindner")
 

@@ -1,5 +1,7 @@
 ---
 title: Kontakt
+type: page
+
 ---
 Privatpraxis „Am Lindenring“
 
