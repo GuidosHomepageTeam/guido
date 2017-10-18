@@ -6,6 +6,8 @@ menu:
     weight: 30
 
 ---
+
+
 ## Verantwortlich
 
 Dipl.-Psych. Guido Lindner
@@ -14,7 +16,7 @@ Lindenring 20a
 
 06618 Naumburg
 
-Tel: 0152 538 10 697 
+Tel: 0152 538 10 697
 
 E-Mail: {{< safemail >}}
 
@@ -30,13 +32,13 @@ Psychologische Psychotherapeut (Thüringen)
 
 ## Berufsrechtliche Regelungen
 
-Psychotherapeutengesetz [PsychThG](http://www.gesetze-im-internet.de/psychthg/BJNR131110998.html) 
+Psychotherapeutengesetz [PsychThG](http://www.gesetze-im-internet.de/psychthg/BJNR131110998.html)
 
 Berufsordnung für die Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten [BO-OPK](https://opk-info.de/wp-content/uploads/Berufsordnung-20141126.pdf)
 
 ## Umsatzsteuer-Identifikationsnummer
 
-Psychotherapeutische Leistungen sind als Heilkunde nach §4 Nr. 14 UStG umsatzsteuerfrei.
+Psychotherapeutische Leistungen sind als Heilkunde nach § 4 Nr. 14 UStG umsatzsteuerfrei.
 Für Beratung und Coaching gilt die Steuernummer 162/254/14127.
 
 ## Haftung für Inhalte
