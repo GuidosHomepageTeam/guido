@@ -2,10 +2,10 @@
 title: Kontakt
 type: page
 menu:
-  foot:
-    weight: 10
   left:
     weight: 60
+  foot:
+    weight: 10
 
 ---
 Privatpraxis „Am Lindenring“
