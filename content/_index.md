@@ -5,7 +5,7 @@ image: teaser
 weight: 99
 
 ---
-![Willkommen](../images/willkommen.jpg "Guido Lindner")
+![Willkommen](../images/willkommen.jpg"Guido Lindner")
 
 >Auch die längste Reise beginnt mit dem ersten Schritt. [^1]
 
