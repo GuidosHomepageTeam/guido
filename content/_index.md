@@ -1,13 +1,15 @@
 ---
 title: Willkommen
 type: page
+image: teaser
+weight: 99
 
 ---
 ![Willkommen](../images/willkommen.jpg "Guido Lindner")
 
 >Auch die längste Reise beginnt mit dem ersten Schritt. [^1]
 
-Wie Laotse schon vor über 2600 Jahren feststellte, braucht es immer den Willen für einen Anfang und ich freue mich, wenn Sie diesen Willen aufbringen und den ersten Schritt in Richtung  Selbstfürsorge tun – worauf Ihr Weg auf meine Internetseite hinzudeuten vermag. Der Geist des Anfängers ist in der Tat hilfreich, um sich auf einen Weg zu begeben, der neu ist und vielleicht auch mit Unbehagen oder Angst behaftet ist. Ich begleite Sie gerne – und dies mit Respekt und Wertschätzung - auf diesem Weg ein Stück weit und würde mich freuen, wenn Sie sich mit mir auf die Reise machen und sich auf den Prozess einlassen können, in den ich Sie behutsam führe und durch den Sie
+Wie Laotse schon vor über 2600 Jahren feststellte, braucht es immer den Willen für einen Anfang und ich freue mich, wenn Sie diesen Willen aufbringen und einen ersten Schritt auf einem Weg gehen, der für Sie neu sein mag und vielleicht mit Unbehagen und Unsicherheit behaftet, vielleicht von Neugier und dem Willen zur Veränderung beeinflusst ist. Ich begleite Sie gerne – und dies mit Respekt und Wertschätzung - auf diesem Weg und ich freue mich, wenn Sie sich mit mir auf die Reise machen und sich auf den Prozess einlassen können, durch den Sie
 wieder Boden unter den Füßen / sich selbst wieder spüren / wieder durchatmen können / Ihre Entscheidungs-Freiheit wieder erlangen / aus dem Dunkel ins Licht treten ...
 
 Trauen Sie sich und beginnen Sie mit dem ersten Schritt, denn wie schon Herrmann Hesse wusste:
@@ -18,7 +20,3 @@ Trauen Sie sich und beginnen Sie mit dem ersten Schritt, denn wie schon Herrmann
 [^1]: Original aus dem Dao De Ching (Kapitel 64):  千里之行，始於足下。- „Eine Reise von tausend Meilen beginnt unter deinem Fuß."
 
 [^2]: Herrmann Hesse „Stufen“
-
-
-
-
