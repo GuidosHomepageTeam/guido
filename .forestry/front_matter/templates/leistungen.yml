@@ -18,3 +18,7 @@ fields:
   type: text
   hidden: false
   default: 99
+- type: textarea
+  name: image
+  label: Image
+  default: roggen
