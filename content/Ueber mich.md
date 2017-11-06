@@ -20,3 +20,8 @@ menu:
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und\
 der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)
+
+<br>"Wer bin ich?", "Was ist „normal“?, "Woher komme ich?", "Wo gehöre ich hin?" <br> 
+
+Mit einem interkulturellen Hintergrund aufgewachsen hat mich schon immer die Frage nach dem „Normalen“ umgetrieben und damit zugleich die Frage nach dem, was anders ist - nach dem, "was durcheint durch das, was erscheint". 
+Meine Suche führte zunächst über Musik und Sport hin zu einer Weltsicht, die stark beeinflusst ist von der wissenschaftlichen Perspektive der Psychologie, genauso wie von spirituellen und mystischen Lehren, wie dem Buddhismus und dem Sufismus. Mir wurden Einsichten geschenkt, die meinen Blick auf die Welt und die Menschen darin geschärft und geweitet hat, was ich gerne zum Wohle meiner Patienten nutzen und weiter vermitteln möchte.
