@@ -2,10 +2,10 @@
 title: Kontakt
 type: page
 menu:
-  left:
-    weight: 60
   foot:
     weight: 10
+  left:
+    weight: 60
 
 ---
 Privatpraxis „Am Lindenring“
@@ -17,7 +17,7 @@ Lindenring 20a
 Tel: 0152 538 10 697 \
 E-Mail: {{< safemail >}}
 
-{{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
+<br>{{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
 
 # Wichtige Notfallnummern<br>und -Adressen #
 
