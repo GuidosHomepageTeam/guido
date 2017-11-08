@@ -14,6 +14,9 @@ Dipl.-Psych. Guido Lindner
 Lindenring 20a
 
 06618 Naumburg  
+
+Telefonische Sprechzeiten von Montag bis Freitag,
+von 8:30 bis 9:30 und von 13:00 bis 14:00 <br>
 Tel: 0152 538 10 697   
 E-Mail: {{< safemail >}}
 
