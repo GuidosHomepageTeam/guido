@@ -18,7 +18,7 @@ Lindenring 20a
 Telefonische Sprechzeiten von Montag bis Freitag,<br>
 von 8:30 bis 9:30 und von 13:00 bis 14:00 unter<br>
 
-	0152 538 10 697   
+0152 538 10 697   
 E-Mail: {{< safemail >}}
 
 {{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
