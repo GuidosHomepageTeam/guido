@@ -1,6 +1,6 @@
 ---
 title: Abrechnung von Therapiesitzungen
-linkTitle: Abrechnung
+linkTitle: Abrechnung-Therapie
 type: page
 menu:
   left:
