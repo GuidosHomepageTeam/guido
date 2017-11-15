@@ -5,7 +5,7 @@ image: roggen
 weight: 99
 
 ---
-![Willkommen](../images/zen-stones-water.jpg "Guido Lindner")
+![Willkommen](/images/zen-stones-water.jpg "Guido Lindner")
 
 > Auch die längste Reise beginnt mit dem ersten Schritt. [^1]
 

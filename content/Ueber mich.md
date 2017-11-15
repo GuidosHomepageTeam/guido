@@ -7,7 +7,7 @@ menu:
     weight: 10
 
 ---
-![Guido Lindner](../images/portrait.jpg "Portrait von Guido Lindner")
+![Guido Lindner](/images/portrait.jpg "Portrait von Guido Lindner")
 
 * Ausbildung zum Heil-Erziehungs-Pfleger
 

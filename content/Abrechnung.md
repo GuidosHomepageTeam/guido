@@ -9,14 +9,14 @@ menu:
 ---
 ## Privatversicherte
 
-Das Honorar für die Therapiesitzungen richtet sich nach der [Gebührenordung für Psychotherapeuten (GOP)](../static/gop.pdf), wobei zusätzliche Kosten für Testdiagnostik, Berichte an die Krankenkassen, o.Ä. anfallen können. Private Krankenkassen erstatten in der Regel die Kosten für eine Psychotherapie. Im Einzelfall hängt es davon ab, was Sie vertraglich mit Ihrer Krankenkasse vereinbart haben. _Deshalb: Bitte klären Sie vor Beginn der Therapie, ob und in welchem Umfang (Kosten, Anzahl der Sitzungen) Ihre Krankenkasse eine Behandlung übernimmt._
+Das Honorar für die Therapiesitzungen richtet sich nach der [Gebührenordung für Psychotherapeuten (GOP)](/files/gop.pdf), wobei zusätzliche Kosten für Testdiagnostik, Berichte an die Krankenkassen, o.Ä. anfallen können. Private Krankenkassen erstatten in der Regel die Kosten für eine Psychotherapie. Im Einzelfall hängt es davon ab, was Sie vertraglich mit Ihrer Krankenkasse vereinbart haben. _Deshalb: Bitte klären Sie vor Beginn der Therapie, ob und in welchem Umfang (Kosten, Anzahl der Sitzungen) Ihre Krankenkasse eine Behandlung übernimmt._
 
 ## Selbstzahler
 
 Bei Vorstellung in einer Praxis wird notwendigerweise eine Diagnose für die Krankenkasse gestellt, wenn diese die Kosten übernehmen 
 soll. Befürchten Sie einen Nachteil durch eine registrierte Diagnose, besteht die Möglichkeit, die Therapiekosten als SelbstzahlerIn 
 zu tragen. Dadurch verbleibt eine Diagnosevergabe in meiner Praxis und wird nirgendwo sonst gespeichert. Die aktuell geltende 
-[Gebührenordung für Psychotherapeuten (GOP)](../static/gop.pdf) gilt hierbei als Honorargrundlage, das Honorar selbst 
+[Gebührenordung für Psychotherapeuten (GOP)](/files/gop.pdf) gilt hierbei als Honorargrundlage, das Honorar selbst 
 wird gemeinsam vereinbart.
 
 ## Gesetzlich Krankenversicherte
