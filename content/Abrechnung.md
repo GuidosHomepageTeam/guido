@@ -13,10 +13,17 @@ Das Honorar für die Therapiesitzungen richtet sich nach der [Gebührenordung f�
 
 ## Selbstzahler
 
-Bei Vorstellung in einer Praxis wird notwendigerweise eine Diagnose für die Krankenkasse gestellt, wenn diese die Kosten übernehmen soll. Befürchten Sie einen Nachteil durch eine registrierte Diagnose, besteht die Möglichkeit, die Therapiekosten als SelbstzahlerIn zu tragen. Dadurch verbleibt eine Diagnosevergabe in meiner Praxis und wird nirgendwo sonst gespeichert. Die aktuell geltende [Gebührenordung für Psychotherapeuten (GOP)](https://www.hallesche.de/gop.pdf) gilt hierbei als Honorargrundlage, das Honorar selbst wird gemeinsam vereinbart.
+Bei Vorstellung in einer Praxis wird notwendigerweise eine Diagnose für die Krankenkasse gestellt, wenn diese die Kosten übernehmen 
+soll. Befürchten Sie einen Nachteil durch eine registrierte Diagnose, besteht die Möglichkeit, die Therapiekosten als SelbstzahlerIn 
+zu tragen. Dadurch verbleibt eine Diagnosevergabe in meiner Praxis und wird nirgendwo sonst gespeichert. Die aktuell geltende 
+[Gebührenordung für Psychotherapeuten (GOP)](https://www.hallesche.de/gop.pdf) gilt hierbei als Honorargrundlage, das Honorar selbst 
+wird gemeinsam vereinbart.
 
 ## Gesetzlich Krankenversicherte
 
-Als Privatpraxis verfüge ich zwar über eine Approbation (d.h. eine Berufserlaubnis), aber über keine Kassenzulassung (d.h. keine reguläre Abrechnungserlaubnis mit gesetzlichen Krankenversicherungen). Im Rahmen des sogenannten Kosten­erstattungs­verfahrens (SGB V § 13, Abs. 3) kann jedoch eine Kostenübernahme durch Ihre Krankenkasse bewilligt werden. Gerne bin ich Ihnen bei der Beantragung behilflich.
+Als Privatpraxis verfüge ich zwar über eine Approbation (d.h. eine Berufserlaubnis), aber über keine Kassenzulassung (d.h. keine 
+reguläre Abrechnungserlaubnis mit gesetzlichen Krankenversicherungen). Im Rahmen des sogenannten Kosten&shy;erstattungs&shy;verfahrens (SGB V § 
+13, Abs. 3) kann jedoch eine Kostenübernahme durch Ihre Krankenkasse bewilligt werden. Gerne bin ich Ihnen bei der Beantragung 
+behilflich.
 
-\[So funktioniert Kostenerstattung\]({{< ref "AbrechnungVoll.md#so-funktioniert-kostenerstattung" >}})
+[So funktioniert Kostenerstattung]({{< ref "AbrechnungVoll.md#so-funktioniert-kostenerstattung" >}})
