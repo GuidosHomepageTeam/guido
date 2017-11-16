@@ -2,10 +2,10 @@
 title: Kontakt
 type: page
 menu:
-  foot:
-    weight: 10
   left:
     weight: 60
+  foot:
+    weight: 10
 
 ---
 Privatpraxis „Am Lindenring“
@@ -36,7 +36,7 @@ E-Mail: {{< safemail >}}
 
 * Psychiatrische Ambulanz der Klinik für Psychiatrie und Psychotherapie Jena  
   Philosophenweg 3, Eingang D in 07743 Jena  
-  Tel.= 0 36 41 93 90 400  
+  Tel.: 0 36 41 93 90 400  
   Sprechzeiten:  
   Mo - Fr: 08:00 - 12:00 Uhr  
   13:00 - 16:00 Uhr
