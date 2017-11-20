@@ -22,7 +22,7 @@ menu:
 
 * Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena
 
-* Niederlassung in Privatpraxis in Naumburg und Jena
+* Niederlassung in Privatpraxis in Naumburg
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und  
 der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)
