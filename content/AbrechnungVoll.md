@@ -29,10 +29,10 @@ Wie können Sie vorgehen?
 
 1. Schritt: **Psychotherapieplatz-Ablehnungen sammeln**\
     Rufen Sie in Ihrer Nähe mehrere (mindestens 3, höchstens 5) kassenärztlich zugelassene Psychotherapeuten an und bemühen sich dort um einen Therapieplatz.
-    *Dokumentieren Sie Ihre Bemühungen*: Datum der Anfrage, Wartezeit sowie auch nicht beantwortete Anfragen. Bitten Sie auch Ihre Krankenkasse um Unterstützung bei der Suche nach einem Therapieplatz. Einen entsprechenden Vordruck kann ich Ihnen geben.
+    *Dokumentieren Sie Ihre Bemühungen*: Datum der Anfrage, Wartezeit sowie auch nicht beantwortete Anfragen. Einen entsprechenden Vordruck zur Dokumentation kann ich Ihnen geben. Bitten Sie auch Ihre Krankenkasse um Unterstützung bei der Suche nach einem Therapieplatz. 
 2. Schritt: **Notwendigkeitsbescheinigung**\
-    Erforderlich ist eine kurze schriftliche Bescheinigung Ihres Hausarztes oder Facharztes über die Notwendigkeit / Dringlichkeit einer psychotherapeutischen Behandlung. Hierfür stelle ich Ihnen gern einen Vordruck zur Verfügung.
+    Erforderlich ist eine kurze schriftliche Bescheinigung Ihres Hausarztes oder Facharztes über die Notwendigkeit / Dringlichkeit einer psychotherapeutischen Behandlung. Hierfür stelle ich Ihnen ebenfalls gerne einen Vordruck zur Verfügung, den Sie Ihrem Arzt geben können.
 3. Schritt: **Psychotherapieantrag stellen**\
     Wenn alle Unterlagen beisammen sind, stellen wir nach einem Erstgespräch einen formlosen schriftlichen „Antrag auf Kostenerstattung für Psychotherapie“, in dem darauf verwiesen wird, dass zur Zeit in Ihrer Nähe kein Psychotherapiebeginn möglich ist, dass aber in meiner Praxis die Behandlung sofort beginnen kann.
-    Die Behandlung beginnt, wenn Ihre Krankenkasse die Übernahme der Kosten zusichert. Sollten sie vorher Therapietermine wahrnehmen wollen ist dies natürlich möglich. Das Kostenrisiko liegt jedoch bei Ihnen.
-    Bei der Beantragung begleite ich Sie und stehe Ihnen stets für Fragen zur Verfügung.
+    Die Behandlung beginnt, sobald Ihre Krankenkasse die Übernahme der Kosten zusichert. Sollten sie vorher Therapietermine wahrnehmen wollen, ist dies natürlich möglich. Das Kostenrisiko liegt jedoch bei Ihnen.
+    Bei der Antragsstellung begleite ich Sie und stehe Ihnen stets für Fragen zur Verfügung.
