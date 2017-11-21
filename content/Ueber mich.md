@@ -9,6 +9,8 @@ menu:
 ---
 ![Guido Lindner](/images/portrait.jpg "Portrait von Guido Lindner")
 
+* Geboren im September 1971
+
 * Ausbildung zum Heil-Erziehungs-Pfleger
 
 * Studium der Psychologie (auf Diplom)
