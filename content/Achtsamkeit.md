@@ -1,5 +1,5 @@
 ---
-title: Achtsamkeit
+title: Achtsamkeitstraining
 type: page
 menu:
   left:
