@@ -26,6 +26,9 @@ menu:
 
 * Niederlassung in Privatpraxis in Naumburg
 
+* Gruppenleiter für Reha-Nachsorge-Gruppen der deutschen Rentenversicherungen (Curriculum Hannover) 
+https://psyrena.de/therapeut/guido-lindner-jena
+
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und  
 der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)
 
