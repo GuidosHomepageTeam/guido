@@ -34,6 +34,7 @@ Sie wissen dass Sie unzufrieden sind, aber es gibt noch nichts, was diese innere
 
 Ein Coaching nimmt Sie mit auf jene Reise zu sich selbst und führt sie wertschätzend dahin, ihr eigenes Potential und vorhandene Barrieren zu erkennen und hilft Ihnen, sich davon zu lösen.
 
-Das Honorar für eine Beratung / ein Coaching beträgt pro Sitzung von 50 Minuten 100,55 Euro (Grundlage ist die GOP analog GOÄ). Eine *Einzelberatungssitzung* (Coaching) ist eine individuelle Gesundheitsleistung und wird nicht von den Krankenkassen getragen. Ein berufliches Coaching kann steuerlich geltend gemacht werden.
+Das Honorar für eine Beratung / ein Coaching orientiert sich an der Gebührenordnung für Psychologen (GOP analog GOÄ) und beträgt für eine Sitzung über 50 Minuten 100,55 Euro. In der Regel werden in gemeinsamer Absprache mehrstündige Sitzungen durchgeführt. 
+Eine *Einzelberatungssitzung* (Coaching) ist eine individuelle Gesundheitsleistung und wird nicht von den Krankenkassen getragen. Ein berufliches Coaching kann steuerlich geltend gemacht werden.
 
 [^1]: aus Die Fabelhaften Heldentaten des weisen Narren Mulla Nasrudin
