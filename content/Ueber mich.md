@@ -15,7 +15,7 @@ menu:
 
 * Studium der Psychologie (auf Diplom)
 
-* Kommunikations-, Verhaltenstrainer und Coach
+* Ausbildung zu und Arbeit als Kommunikations-, Verhaltenstrainer und Coach
 
 * Durchführung von Achtsamkeits-Seminaren
 
