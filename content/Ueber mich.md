@@ -19,7 +19,7 @@ menu:
   Approbation zum Psychologischen Psychotherapeuten <br>
 * Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena <br>
 * Niederlassung in Privatpraxis in Naumburg <br>
-* Gruppenleiter für Reha-Nachsorge-Gruppen <br> der deutschen Rentenversicherungen (Curriculum Hannover) <br>
+* Gruppenleiter für Reha-Nachsorge-Gruppen (Curriculum Hannover) <br>
   https://psyrena.de/therapeut/guido-lindner-jena
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und  
