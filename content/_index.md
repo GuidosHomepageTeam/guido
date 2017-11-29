@@ -13,11 +13,6 @@ Wie Laotse schon vor über 2600 Jahren feststellte, braucht es immer den Willen 
 
 Nehmen Sie sich Zeit und machen Sie sich ein Bild von diesen Seiten, auf denen Sie zugleich ein kleines Bild von mir und meinem Angebot bekommen. 
 
-<br> Und wenn es Sie anspricht, freue ich mich, wenn Sie sich bei mir melden und mit dem ersten Schritt beginnen, auch im Sinne von Herrmann Hesse:
-
-> Des Lebens Ruf an uns wird niemals enden.  
-> Wohlan denn, Herz, nimm Abschied und gesunde! \[^2\]
+<br> Und wenn es Sie anspricht, freue ich mich, wenn Sie sich bei mir melden und mit dem ersten Schritt beginnen!
 
 \[^1\]: Original aus dem Dao De Ching (Kapitel 64):  千里之行，始於足下。- „Eine Reise von tausend Meilen beginnt unter deinem Fuß."
-
-\[^2\]: Herrmann Hesse „Stufen“
