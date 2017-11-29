@@ -12,15 +12,14 @@ menu:
 * Geboren im September 1971
 * Ausbildung zum Heil-Erziehungs-Pfleger
 * Studium der Psychologie (auf Diplom)
-* Ausbildung zum und Arbeit als 
-
-  Kommunikations-, Verhaltenstrainer und Coach
-* Durchführung von Achtsamkeits-Seminaren
-* Therapieausbildung am Institut für Verhaltenstherapie in Thüringen mit  
-  Approbation zum Psychologischen Psychotherapeuten
-* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena
-* Niederlassung in Privatpraxis in Naumburg
-* Gruppenleiter für Reha-Nachsorge-Gruppen der deutschen Rentenversicherungen (Curriculum Hannover)
+* Ausbildung zum und Arbeit als
+  Kommunikations-, Verhaltenstrainer und Coach <br>
+* Durchführung von Achtsamkeits-Seminaren <br>
+* Therapieausbildung am Institut für Verhaltenstherapie in Thüringen mit <br> 
+  Approbation zum Psychologischen Psychotherapeuten <br>
+* Therapeut an Psychosomatischer Klinik im Kreis Naumburg<br> und in ambulanter Praxis in Jena <br>
+* Niederlassung in Privatpraxis in Naumburg <br>
+* Gruppenleiter für Reha-Nachsorge-Gruppen der deutschen Rentenversicherungen (Curriculum Hannover) <br>
   https://psyrena.de/therapeut/guido-lindner-jena
 
 Mitglied der Ostdeutschen Psychotherapeutenkammer (OPK) und  
