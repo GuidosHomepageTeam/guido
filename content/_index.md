@@ -8,7 +8,7 @@ linktitle: Willkommen
 ---
 ![Willkommen](/images/zen-stones-water.jpg "Guido Lindner")
 
-> "Auch die längste Reise beginnt mit dem ersten Schritt."
+> „Auch die längste Reise beginnt mit dem ersten Schritt.“
 
 Wie Laotse schon vor über 2600 Jahren feststellte, braucht es immer den Willen für einen Anfang und ich freue mich, wenn Sie diesen Willen aufbringen und sich mit mir auf die Reise machen, der Sie auf einen Weg führen mag, an deren Ende Sie wieder gestärkt ins Leben treten können.<br>
 
