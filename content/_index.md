@@ -3,6 +3,7 @@ title: Psychotherapeutische Privatpraxis "Am Lindenring" in Naumburg
 type: page
 image: roggen
 weight: 99
+linktitle: Willkommen
 
 ---
 ![Willkommen](/images/zen-stones-water.jpg "Guido Lindner")
