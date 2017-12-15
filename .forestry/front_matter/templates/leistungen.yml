@@ -22,3 +22,6 @@ fields:
   name: image
   label: Image
   default: roggen
+- type: text
+  name: linktitle
+  label: Text in der Seitenleisten
