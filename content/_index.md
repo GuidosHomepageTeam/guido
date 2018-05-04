@@ -1,5 +1,5 @@
 ---
-title: Psychotherapeutische Privatpraxis „Am Lindenring“ in Naumburg
+title: Psychotherapeutische Privatpraxis in Naumburg
 type: page
 image: roggen
 weight: 99
