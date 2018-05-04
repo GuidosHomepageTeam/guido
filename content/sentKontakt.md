@@ -3,7 +3,7 @@ title: Kontakt
 type: page
 
 ---
-Privatpraxis „Am Lindenring“
+Psychotherapeutische Privatpraxis
 
 Dipl.-Psych. Guido Lindner\
 Am Georgentor 3
