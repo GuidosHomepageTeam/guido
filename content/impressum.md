@@ -6,13 +6,11 @@ menu:
     weight: 30
 
 ---
-
-
 ## Verantwortlich
 
 Dipl.-Psych. Guido Lindner
 
-Lindenring 20a
+Am Georgentor 3
 
 06618 Naumburg
 
