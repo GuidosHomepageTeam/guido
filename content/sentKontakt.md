@@ -6,7 +6,7 @@ type: page
 Privatpraxis „Am Lindenring“
 
 Dipl.-Psych. Guido Lindner\
-Lindenring 20a
+Am Georgentor 3
 
 06618 Naumburg\
 Tel: 0152 538 10 697\
@@ -28,4 +28,3 @@ E-Mail: {{< safemail >}}
   Sprechzeiten:\
   Mo - Fr: 08:00 - 12:00 Uhr\
   13:00 - 16:00 Uhr
-
