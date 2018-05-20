@@ -8,6 +8,6 @@
 * [ ] Datenschutzerklärung aktualisieren
 * [X] Robots.txt anpassen
 * [X] Google Maps als Zwei-Klick-Lösung
-* [ ] Datenverarbeitungserklärung mit formspring, google und github
+* [ ] Datenverarbeitungserklärung mit formcarry, google und github
 * [ ] Google ReCaptcha entfernen/Zwei-Klick-Lösung?
 * [ ] PGP für E-Mail-Formular
