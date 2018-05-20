@@ -10,6 +10,6 @@ Ein Training der [Achtsamkeit]({{< ref "AchtsamkeitVoll.md" >}}) will Ihnen die 
 
 Ein Achtsamkeitstraining findet in Gruppen von 6-12 Personen statt. Bei Interesse rufen Sie mich an oder schreiben Sie mir eine Mail. Die Kosten für die Teilnahme betragen für einen 8-Wöchigen Kurs zwischen 150,- und 300,- Euro, je nach Gruppengröße und Einkommenssituation (auf Grundlage der GOP analog GOÄ). Die Kurse finden im Raum Jena statt.
 
-Eine Zusammenarbeit besteht mit dem MBSR-Lehrer, Herr Dr. Langohr in Jena: http://www.jena-achtsamkeit.de/
+Eine Zusammenarbeit besteht mit dem MBSR-Lehrer, Herr Dr. Langohr in Jena: https://www.jena-achtsamkeit.de/
 
 [^1]: aus: Willigis Jäger: Die Welle ist das Meer. Herder-Spektrum
