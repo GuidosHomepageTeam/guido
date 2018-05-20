@@ -6,7 +6,7 @@ menu:
     weight: 20
 
 ---
-Zur Frage „Was ist Psychotherapie?“ empfehle ich einen [Flyer der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)](/Was_ist_Psychotherapie.pdf).
+Zur Frage „Was ist Psychotherapie?“ empfehle ich einen [Flyer der Deutschen Gesellschaft für Verhaltenstherapie (DGVT)](/files/Was_ist_Psychotherapie.pdf).
 
 ## Erstgespräch (1 Sitzung)
 

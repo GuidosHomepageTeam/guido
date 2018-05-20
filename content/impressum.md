@@ -32,7 +32,7 @@ Psychologische Psychotherapeut (Thüringen)
 
 Psychotherapeutengesetz [PsychThG](https://www.gesetze-im-internet.de/psychthg/BJNR131110998.html)
 
-Berufsordnung für die Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten [BO-OPK](/Berufsordnung-20141126.pdf)
+Berufsordnung für die Psychologischen Psychotherapeuten und Kinder- und Jugendlichenpsychotherapeuten [BO-OPK](/files/Berufsordnung-20141126.pdf)
 
 ## Umsatzsteuer-Identifikationsnummer
 
