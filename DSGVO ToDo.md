@@ -7,9 +7,7 @@
 * [X] Datenschutzerklärung auslagern
 * [ ] Datenschutzerklärung aktualisieren
 * [X] Robots.txt anpassen
-
 * [X] Google Maps als Zwei-Klick-Lösung
 * [ ] Datenverarbeitungserklärung mit formspring, google und github
-
-* [ ] Google ReCaptcha entfernen?
+* [ ] Google ReCaptcha entfernen/Zwei-Klick-Lösung?
 * [ ] PGP für E-Mail-Formular
