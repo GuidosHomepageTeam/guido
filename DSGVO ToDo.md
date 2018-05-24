@@ -1,13 +1,12 @@
+Technisch-Organisatorische Maßnahmen
 * [X] Alle Links auf HTTPS umstellen (soweit möglich)
   * [ ] Telefonseelsorge auf Kontakt.md
-  * [ ] Eigene Seite auf config.yaml
-* [ ] Seite auf SSL umstellen
+  * [X] Eigene Seite auf config.yaml
+* [X] Seite auf SSL umstellen
 * [X] "Was ist Psychotherapie", "Berufsordnung" lokal zur Verfügung stellen
 * [X] Google Fonts lokal zur Verfügung stellen
 * [X] Datenschutzerklärung auslagern
-* [ ] Datenschutzerklärung aktualisieren
+* [X] Datenschutzerklärung aktualisieren
 * [X] Robots.txt anpassen
 * [X] Google Maps als Zwei-Klick-Lösung
-* [ ] Datenverarbeitungserklärung mit formcarry, google und github
-* [ ] Google ReCaptcha entfernen/Zwei-Klick-Lösung?
-* [ ] PGP für E-Mail-Formular
+* [ ] Datenverarbeitungserklärung mit google und github
