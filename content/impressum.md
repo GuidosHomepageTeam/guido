@@ -37,11 +37,11 @@ Berufsordnung für die Psychologischen Psychotherapeuten und Kinder- und Jugendl
 ## Umsatzsteuer-Identifikationsnummer
 
 Psychotherapeutische Leistungen sind als Heilkunde nach § 4 Nr. 14 UStG umsatzsteuerfrei.
-Für Beratung und Coaching sowie Seminare gilt die Steuernummer 162/254/14127.
+Für Beratung und Coaching sowie für Seminare gilt die Steuernummer 162/254/14127.
 
 ## Haftung für Inhalte
 
-Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Die hier angebotenen Informationen stellen keine Beratung oder Psychotherapie dar, sondern dienen lediglich zur Vorstellung des Therapeuten. Die Ausführung angebotener Leistungen sind erst im persönlichen Kontakt zum Therapeuten möglich.
+Die Inhalte dieser Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann ich jedoch keine Gewähr übernehmen. Die hier angebotenen Informationen stellen keine Beratung oder Psychotherapie dar, sondern dienen lediglich zur Vorstellung des Therapeuten. Die Nutzung angebotener Leistungen sind erst im persönlichen Kontakt zum Therapeuten möglich.
 
 ## Urheberrecht/Verwertungsrechte
 
