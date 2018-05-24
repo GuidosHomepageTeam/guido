@@ -1,6 +1,4 @@
 ---
-pages:
-- _index.md
 hide_body: false
 is_partial: false
 fields:
@@ -26,3 +24,5 @@ fields:
 - type: text
   name: linktitle
   label: Text in der Seitenleisten
+pages:
+- _index.md
