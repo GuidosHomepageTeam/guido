@@ -23,8 +23,6 @@ von 8:30 bis 9:30 und von 13:00 bis 14:00 unter<br>
 
 E-Mail: {{< safemail >}}
 
-{{< form-contact token="ByTj2ep9Z" captcha="6LdGsDAUAAAAAPT4-zhs9-qjxvKjZbjBxuE28MaI" >}}
-
 # Wichtige Notfallnummern<br>und -Adressen
 
 * Zentrale Notrufnummer: 112
