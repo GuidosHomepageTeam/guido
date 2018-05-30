@@ -22,7 +22,7 @@ Telefonische Sprechzeiten von Montag bis Freitag,<br> von 8:30 bis 9:30 und von 
 
 E-Mail: {{< safemail >}}
 
-<p></p>
+<p style="height:20px"></p>
 
 # Wichtige Notfallnummern<br>und -Adressen
 
