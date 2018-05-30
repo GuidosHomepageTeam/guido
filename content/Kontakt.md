@@ -22,6 +22,8 @@ Telefonische Sprechzeiten von Montag bis Freitag,<br> von 8:30 bis 9:30 und von 
 
 E-Mail: {{< safemail >}}
 
+<p></p>
+
 # Wichtige Notfallnummern<br>und -Adressen
 
 * Zentrale Notrufnummer: 112
