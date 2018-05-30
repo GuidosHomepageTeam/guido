@@ -2,10 +2,10 @@
 title: Kontakt
 type: page
 menu:
-  left:
-    weight: 60
   foot:
     weight: 10
+  left:
+    weight: 60
 
 ---
 Psychotherapeutische Privatpraxis
@@ -16,7 +16,7 @@ Am Georgentor 3
 06618 Naumburg
 
 Telefonische Sprechzeiten von Montag bis Freitag,<br>
-von 8:30 bis 9:30 und von 13:00 bis 14:00 unter<br>
+von 8:00 bis 9:00 und von 13:00 bis 14:00 unter<br>
 
 03445 677 4 169 (Festnetz) oder
 0152 538 10 697 (Mobil)
