@@ -3,22 +3,20 @@ title: Kontakt
 type: page
 
 ---
-Psychotherapeutische Privatpraxis
+Psychotherapeutische Praxis
 
 Dipl.-Psych. Guido Lindner
 Am Georgentor 3
 
 06618 Naumburg
 
-Telefonische Sprechzeiten von Montag bis Freitag,<br>
-von 8:30 bis 9:30 und von 13:00 bis 14:00 unter<br>
+Telefonische Sprechzeiten Mittwochs <br> von 10:30 bis 11:00 und von 14:00 bis 14:30 unter<br>
 
-03445 677 4 169 (Festnetz) oder
-0152 538 10 697 (Mobil)
+03445 677 2919 (Festnetz) oder 0152 538 10 697 (Mobil)
 
 E-Mail: {{< safemail >}}
 
-## Vielen Dank für Ihre Nachricht! ##
+## Vielen Dank für Ihre Nachricht!
 
 # Wichtige Notfallnummern<br>und -Adressen
 
