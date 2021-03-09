@@ -1,8 +1,8 @@
 ---
-title: Psychotherapeutische Privatpraxis in Naumburg
+title: Psychotherapeutische Praxis in Naumburg
 type: page
 image: roggen
-weight: 99
+weight: "99"
 linktitle: Willkommen
 
 ---

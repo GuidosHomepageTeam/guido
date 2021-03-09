@@ -1,6 +1,6 @@
 ---
+label: leistungen
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -25,4 +25,4 @@ fields:
   name: linktitle
   label: Text in der Seitenleisten
 pages:
-- _index.md
+- content/_index.md
