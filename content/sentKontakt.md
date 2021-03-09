@@ -16,7 +16,9 @@ Telefonische Sprechzeiten Mittwochs <br> von 10:30 bis 11:00 und von 14:00 bis 1
 
 E-Mail: {{< safemail >}}
 
-## Vielen Dank für Ihre Nachricht!
+Sollten Sie mich nicht erreichen, hinterlassen Sie bitte eine Nachricht. Ich melde mich zurück.
+
+## Vielen Dank!
 
 # Wichtige Notfallnummern<br>und -Adressen
 
