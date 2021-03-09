@@ -26,7 +26,7 @@ Kickerlingsberg 16, 04105 Leipzig
 
 ## Gesetzliche Berufsbezeichnung
 
-Psychologische Psychotherapeut (Thüringen)
+Psychologischer Psychotherapeut (Thüringen)
 
 ## Berufsrechtliche Regelungen
 
