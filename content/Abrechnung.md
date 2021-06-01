@@ -24,5 +24,3 @@ wird gemeinsam vereinbart.
 ## Gesetzlich Krankenversicherte
 
 Als niedergelassener Psychotherapeut mit einer regulären Abrechnungserlaubnis bei den gesetzlichen Krankenversicherungen können Sie ganz unproblematisch mit Ihrer Krankenkassenkarte bei mir eine Therapie beginnen.
-
-[So funktioniert Kostenerstattung]({{< ref "AbrechnungVoll.md#so-funktioniert-kostenerstattung" >}})
